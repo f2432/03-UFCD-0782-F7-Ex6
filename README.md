@@ -1,25 +1,19 @@
-# 03 - UFCD-0782 - F7 - Ex5
+# 03 - UFCD-0782 - F7 - Ex6
 Este exercício é escrito em C, será testado com o make e um script bash.
 
 ### O Exercício
-O índice de massa corporal pode ajudar a revenir a obesidade. O IMC é determinado pela
-divisão da massa do indivíduo pelo quadrado de sua altura, em que a massa está em
-quilogramas e a altura em metros.  
-
-IMC = massa / (altura * altura) 
-
-Faça um programa que calcule o IMC.  
-
-
+Escreva um programa que peça ao utilizador para digitar o valor de compra de um produto,
+o valor do lucro que se deseja ter e o valor do IVA. O programa deverá apresentar o valor a
+que se deve vender o produto.
 
 ### Saída Esperada:
-Qual é o teu peso?  
-90 ↵  
-Qual é a tua altura?  
-1,75 ↵  
-O teu índice de massa corporal é 29,387.  
+Qual é o valor do produto:  
+20 ↵  
+Qual é o lucro que se quer ter:  
+10 ↵  
+Valor do iva:  
+23 ↵  
+O valor do produto final é 38,1 Euros.  
  
-
-
 ### Notas
 - o teste verificará se a saída do programa é exatamente a esperada.  
